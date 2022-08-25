@@ -14,7 +14,7 @@
 ![Снимок экрана от 2022-08-25 21-17-00](https://user-images.githubusercontent.com/89171514/186689886-59347701-99da-4a41-beda-938c76dc9d3d.png)
 ![Снимок экрана от 2022-08-25 21-19-02](https://user-images.githubusercontent.com/89171514/186689930-43116a12-46ff-4e23-b38c-7463a862afec.png)
 
-2. Now buttons aren't useless
+2. Now buttons aren't useless (ctrl+p to show buttons)
 
 ![Снимок экрана от 2022-08-25 21-21-29](https://user-images.githubusercontent.com/89171514/186690859-91a61bd8-990d-4de5-b9f0-abe1d199d320.png)
 ![Снимок экрана от 2022-08-25 21-22-33](https://user-images.githubusercontent.com/89171514/186690887-f78a15b6-6f3c-4762-b2e2-71421d3194bd.png)
